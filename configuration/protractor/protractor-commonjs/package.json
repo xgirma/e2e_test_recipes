@@ -1,0 +1,18 @@
+{
+  "name": "protractor-commonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "upadte-webderiver": "webdriver-manager update",
+    "upadte-webderiver:to": "webdriver-manager update --chrome.version=77.0.3865.120",
+    "test": "protractor protractor.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "^5.4.2"
+  }
+}
