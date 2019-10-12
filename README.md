@@ -1,1 +1,1 @@
-# protractor_tests
+# End to end test Recipes
