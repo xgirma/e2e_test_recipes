@@ -8,7 +8,7 @@
         commonjs, mocha
         ES6 with babel, jasmine
         ES6 with ESM, jasmine
-        typescript, jasmine
+        ES6, typescript, jasmine
         
     selenium-webdriver
         commonjs, jasmine
