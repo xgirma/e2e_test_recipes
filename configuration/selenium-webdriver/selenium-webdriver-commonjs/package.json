@@ -1,0 +1,20 @@
+{
+  "name": "selenium-webdriver-commonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "./node_modules/.bin/jasmine init",
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^77.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
