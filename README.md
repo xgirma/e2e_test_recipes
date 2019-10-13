@@ -5,8 +5,9 @@
     Protractor
         commonjs, assert
         commonjs, jasmine
-        ES6 with ESM, jasmine
+        commonjs, mocha
         ES6 with babel, jasmine
+        ES6 with ESM, jasmine
         typescript, jasmine
         
     selenium-webdriver
