@@ -3,13 +3,10 @@
 ## Configuration
 
     Protractor
-        
-        protractor: commonjs, assert
-        
-        protractor: commonjs, jasmine
+        commonjs, assert
+        commonjs, jasmine
+        ES6 with ESM, jasmine
         
     selenium-webdriver
-    
-        selenium-webdriver: commonjs, jasmine
-        
-        selenium-webdriver: cucumberjs, chai
+        commonjs, jasmine
+        cucumberjs, chai
