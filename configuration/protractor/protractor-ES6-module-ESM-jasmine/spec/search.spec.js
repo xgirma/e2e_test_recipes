@@ -1,4 +1,4 @@
-import { browser, Key } from "protractor";
+import { browser, Key } from 'protractor';
 
 describe('google search', () => {
   beforeAll(() => {

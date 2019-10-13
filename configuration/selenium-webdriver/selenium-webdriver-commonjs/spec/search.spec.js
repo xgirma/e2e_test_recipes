@@ -1,10 +1,10 @@
-const {Builder, By, Key} = require('selenium-webdriver');
+const { Builder, By, Key } = require('selenium-webdriver');
 require('chromedriver');
 
-describe('google Search', function() {
+describe('google Search', () => {
   let browser;
 
-  beforeAll( async function() {
+  beforeAll(async () => {
     browser = await new Builder().forBrowser('chrome').build();
     browser.get('http://www.google.com');
   });
@@ -14,7 +14,7 @@ describe('google Search', function() {
     expect(title).toEqual('Google');
   });
 
-  it('should search for Cheese!', async function () {
+  it('should search for Cheese!', async () => {
     const searchBox = await browser.findElement(By.name('q'));
     expect(await searchBox.isDisplayed()).toBe(true);
     searchBox.sendKeys('Cheese!', Key.ENTER);
@@ -26,7 +26,7 @@ describe('google Search', function() {
     expect(isTitleStartWithCheese).toBe(true);
   });
 
-  afterAll(function() {
+  afterAll(() => {
     browser.quit();
   });
 });
