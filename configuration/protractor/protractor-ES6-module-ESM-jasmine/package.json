@@ -1,0 +1,19 @@
+{
+  "name": "protractor-es6-module-esm-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "upadte-webderiver": "webdriver-manager update",
+    "upadte-webderiver:to": "webdriver-manager update --chrome.version=77.0.3865.120",
+    "test": "protractor -r esm protractor.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "jasmine": "^3.5.0",
+    "protractor": "^5.4.2"
+  }
+}
