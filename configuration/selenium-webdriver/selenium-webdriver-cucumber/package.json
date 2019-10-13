@@ -1,0 +1,18 @@
+{
+  "name": "selenium-webdriver-cucumber",
+  "version": "1.0.0",
+  "main": "cucumber.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^77.0.0",
+    "cucumber": "^5.1.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
