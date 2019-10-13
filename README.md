@@ -5,3 +5,5 @@
     Protractor
         
         protractor: commonjs, assert
+        
+        protractor: commonjs, jasmine
