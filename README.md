@@ -2,6 +2,12 @@
 
 ## Configuration
 
+    Cypress
+        commonjs
+   
+    Nightwatch
+        commonjs
+    
     Protractor
         commonjs, assert
         commonjs, jasmine
@@ -13,3 +19,6 @@
     selenium-webdriver
         commonjs, jasmine
         cucumberjs, chai
+        
+    testcafe
+        commonjs
