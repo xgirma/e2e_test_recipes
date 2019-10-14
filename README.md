@@ -22,3 +22,6 @@
         
     testcafe
         commonjs
+        
+## List
+AVA, Chai, Cypress, Karma, Jasmine, Jest, Mocha, Nightmare, Nightwatch, Puppeteer, Protractor, TestCafe 
