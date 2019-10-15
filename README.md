@@ -4,6 +4,7 @@
 
 |   | selenium-webdriver |  WebdriverIO | WD |
 |---:|:---:|:---:|:---|
+|   |   |   |   |
 | commonjs  |   |   |   |
 | ES6 module  |   |   |   |
 | ESM  |   |   |   |
@@ -20,6 +21,7 @@
 
 |   | Busterjs  | Cypress   | Nemo  | Nightmare  | Nightwatch  | Protractor  | Puppeteer  | TestCafe  |
 |---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |
 | commonjs  |   |   |   |   |   |   |   |   |
 | ES6 modules  |   |   |   |   |   |   |   |   |
 | ESM  |   |   |   |   |   |   |   |   |
