@@ -23,6 +23,7 @@
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
+    "nemo": "^4.11.0",
     "typescript": "^3.6.4"
   }
 }
