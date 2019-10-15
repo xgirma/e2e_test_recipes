@@ -36,21 +36,6 @@
 | Mocha  |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 
-
-    Busterjs
-        commonjs [TODO]
-
-    Cypress
-        commonjs [TODO]
-        
-    Nemo
-        commonjs [TODO]
-   
-    Nightmare
-        commonjs [TODO]
-        
-    Nightwatch
-        commonjs [TODO]
     
     Protractor
         commonjs, assert
@@ -60,13 +45,7 @@
         ES6 with ESM, jasmine
         ES6, typescript, jasmine
         
-    Puppeteer
-        commonjs [TODO]
-        
     selenium-webdriver
         commonjs, jasmine
         cucumberjs, chai
-        
-    TestCafe
-        commonjs [TODO]
          
