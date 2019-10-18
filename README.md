@@ -5,9 +5,8 @@
 ### selenium-webdriver
 TODO
 
-|   |  |
+
 |---:|:---|
-|   |   |
 | commonjs  | :white_check_mark:  |
 | ES6 module  |   |
 | ESM  |   |
@@ -24,9 +23,7 @@ TODO
 ### WebdriverIO
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
@@ -43,9 +40,7 @@ TODO
 ### WD
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
@@ -62,9 +57,7 @@ TODO
 ### jWebDriver
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
@@ -83,9 +76,7 @@ TODO
 ### Cypress
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
@@ -102,9 +93,7 @@ TODO
 ### Nemo
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
@@ -121,9 +110,7 @@ TODO
 ### Nightmare
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
@@ -140,9 +127,7 @@ TODO
 ### Nightwatch
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
@@ -159,9 +144,7 @@ TODO
 ### Protractor
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  | :white_check_mark:  |
 | ES6 module  |  :white_check_mark:  |
 | ESM  | :white_check_mark:   |
@@ -178,9 +161,7 @@ TODO
 ### Puppeteer
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
@@ -197,9 +178,7 @@ TODO
 ### TestCafe
 TODO
 
-|   |  |
 |---:|:---|
-|   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
@@ -213,14 +192,21 @@ TODO
 | Jest  |   | 
 | Mocha  |   |
      
-# Others: TODO   
+# Others:   
 Appium
+
 WebdriverCSS
+
 jest-webdriver
+
 webdriver-sync
+
 mochify
+
 webdriver-sync
+
 selenium-cucumber-js
+
 cabbie
          
 ## Abandoned
