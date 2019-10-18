@@ -162,7 +162,7 @@ TODO
 |   | Remark |
 |---:|:---|
 |   |   |
-| commonjs  |   |
+| commonjs  | :white_check_mark:  |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
