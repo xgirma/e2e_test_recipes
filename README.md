@@ -1,42 +1,228 @@
 # End to end test Recipes
 
-## Configuration
+## Configuration: Drivers
 
-|   | selenium-webdriver |  WebdriverIO | WD |
-|---:|:---:|:---:|:---|
-|   |   |   |   |
-| commonjs  |   |   |   |
-| ES6 module  |   |   |   |
-| ESM  |   |   |   |
-| Babel  |   |   |   |
-| TypeScript  |   |   |   |
-|   |   |   |   |
-| AVA  |   |   |   |
-| Chai  |   |   |   |
-| Cucumber  |   |   |   |
-| Jasmine  |   |   |   |
-| Jest  |   |   |   |
-| Mocha  |   |   |   |
+### selenium-webdriver
+TODO
 
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   | 
 
-|   | Busterjs  | Cypress   | Nemo  | Nightmare  | Nightwatch  | Protractor  | Puppeteer  | TestCafe  |
-|---|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |   |
-| commonjs  |   |   |   |   |   |   |   |   |
-| ES6 modules  |   |   |   |   |   |   |   |   |
-| ESM  |   |   |   |   |   |   |   |   |
-| Babel  |   |   |   |   |   |   |   |   |
-| TypeScript  |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-| AVA  |   |   |   |   |   |   |   |   |
-| Chai  |   |   |   |   |   |   |   |   |
-| cucumber  |   |   |   |   |   |   |   |   |
-| Jasmine  |   |   |   |   |   |   |   |   |
-| Jest  |   |   |   |   |   |   |   |   |
-| Mocha  |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
+### WebdriverIO
+TODO
 
-    
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+ 
+### WD
+TODO
+
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+
+### jWebDriver
+TODO
+
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+
+## Configuration: Frameworks
+
+### Cypress
+TODO
+
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+
+### Nemo
+TODO
+
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+
+### Nightmare
+TODO
+
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+
+### Nightwatch
+TODO
+
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+
+### Protractor
+TODO
+
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+
+### Puppeteer
+TODO
+
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+
+### TestCafe
+TODO
+
+|   | Remark |
+|---:|:---|
+|   |   |
+| commonjs  |   |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  |
+|   |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |   |
+     
+# Others   
+Appium
+WebdriverCSS
+jest-webdriver
+webdriver-sync
+mochify
+webdriver-sync
+selenium-cucumber-js
+cabbie
+
     Protractor
         commonjs, assert
         commonjs, jasmine
@@ -49,3 +235,9 @@
         commonjs, jasmine
         cucumberjs, chai
          
+## Abandoned
+
+1. [busterjs](https://github.com/busterjs/buster)
+
+2. [WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent)
+
