@@ -5,33 +5,33 @@
 ### selenium-webdriver
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
-| commonjs  |   |
+| commonjs  | :white_check_mark:  |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
-| Chai  |   |
+| Chai  | :white_check_mark:  |
 | Cucumber  |   |
-| Jasmine  |   | 
+| Jasmine  | :white_check_mark:  | 
 | Jest  |   | 
 | Mocha  |   | 
 
 ### WebdriverIO
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
 | Chai  |   |
@@ -43,14 +43,14 @@ TODO
 ### WD
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
 | Chai  |   |
@@ -62,14 +62,14 @@ TODO
 ### jWebDriver
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
 | Chai  |   |
@@ -83,14 +83,14 @@ TODO
 ### Cypress
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
 | Chai  |   |
@@ -102,14 +102,14 @@ TODO
 ### Nemo
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
 | Chai  |   |
@@ -121,14 +121,14 @@ TODO
 ### Nightmare
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
 | Chai  |   |
@@ -140,14 +140,14 @@ TODO
 ### Nightwatch
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
 | Chai  |   |
@@ -159,33 +159,33 @@ TODO
 ### Protractor
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  | :white_check_mark:  |
-| ES6 module  |   |
-| ESM  |   |
-| Babel  |   |
-| TypeScript  |
+| ES6 module  |  :white_check_mark:  |
+| ESM  | :white_check_mark:   |
+| Babel  | :white_check_mark:   |
+| TypeScript  | :white_check_mark:  |
 |   |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
-| Jasmine  |   | 
+| Jasmine  | :white_check_mark:   | 
 | Jest  |   | 
-| Mocha  |   |
+| Mocha  | :white_check_mark:   |
 
 ### Puppeteer
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
 | Chai  |   |
@@ -197,14 +197,14 @@ TODO
 ### TestCafe
 TODO
 
-|   | Remark |
+|   |  |
 |---:|:---|
 |   |   |
 | commonjs  |   |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  |
+| TypeScript  | |
 |   |   |
 | AVA  |   |
 | Chai  |   |
@@ -213,7 +213,7 @@ TODO
 | Jest  |   | 
 | Mocha  |   |
      
-# Others   
+# Others: TODO   
 Appium
 WebdriverCSS
 jest-webdriver
@@ -222,18 +222,6 @@ mochify
 webdriver-sync
 selenium-cucumber-js
 cabbie
-
-    Protractor
-        commonjs, assert
-        commonjs, jasmine
-        commonjs, mocha
-        ES6 with babel, jasmine
-        ES6 with ESM, jasmine
-        ES6, typescript, jasmine
-        
-    selenium-webdriver
-        commonjs, jasmine
-        cucumberjs, chai
          
 ## Abandoned
 
