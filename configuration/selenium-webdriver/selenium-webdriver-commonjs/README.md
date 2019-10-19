@@ -1,13 +1,22 @@
 # selenium-webdriver: commonjs & jasmine
 
-    module: commonjs
-    
-    framework: selenium-webdriver
-    
-    assertion: jasmine
+|   |  |
+|---:|:---|
+| commonjs  | :white_check_mark: |
+| ES6 module  |   |
+| ESM  |  |
+| Babel  |  |
+| TypeScript  |  |
+|   |   |
+| Assert  |   |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  | :white_check_mark: | 
+| Jest  |  | 
+| Mocha  |  |
 
-## To run your test
+## To run the test
 
     npm install
-    
     npm run test
