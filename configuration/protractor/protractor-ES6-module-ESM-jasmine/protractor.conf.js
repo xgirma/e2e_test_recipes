@@ -11,4 +11,8 @@ exports.config = {
         isVerbose: true,
         realtimeFailure: true
     },
+    onPrepare: () => {
+        /* eslint-disable-next-line global-require */
+        require('esm');
+    },
 };
