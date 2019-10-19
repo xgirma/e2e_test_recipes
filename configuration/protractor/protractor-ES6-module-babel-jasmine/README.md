@@ -2,10 +2,10 @@
 
 |   |  |
 |---:|:---|
-| commonjs  | :white_check_mark:  |
-| ES6 module  |    |
+| commonjs  |   |
+| ES6 module  |  :white_check_mark:  |
 | ESM  |  |
-| Babel  |    |
+| Babel  | :white_check_mark: |
 | TypeScript  |   |
 |   |   |
 | Assert  |   |
