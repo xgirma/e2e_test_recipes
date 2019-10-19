@@ -13,6 +13,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  | :white_check_mark:  |
 | Cucumber  |   |
@@ -31,6 +32,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
@@ -49,6 +51,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
@@ -67,6 +70,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
@@ -87,6 +91,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
@@ -105,6 +110,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
@@ -123,6 +129,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
@@ -141,6 +148,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
@@ -159,6 +167,7 @@ TODO
 | Babel  | :white_check_mark:   |
 | TypeScript  | :white_check_mark:  |
 |   |   |
+| Assert  |  :white_check_mark: |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
@@ -177,6 +186,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
@@ -195,6 +205,7 @@ TODO
 | Babel  |   |
 | TypeScript  | |
 |   |   |
+| Assert  |   |
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |

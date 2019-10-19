@@ -1,8 +1,20 @@
-# Protractor: commonjs & assert
+# Protractor: with commonjs & assert
 
-    module: commonjs
-    framework: protractor
-    assertion: assert/node
+|   |  |
+|---:|:---|
+| commonjs  | :white_check_mark:  |
+| ES6 module  |    |
+| ESM  |  |
+| Babel  |    |
+| TypeScript  |   |
+|   |   |
+| Assert  |  :white_check_mark: |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |  | 
+| Jest  |  | 
+| Mocha  |  |
 
 ## To run your test
 
