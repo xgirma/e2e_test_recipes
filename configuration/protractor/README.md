@@ -1,4 +1,4 @@
-# [:arrow_backward:](https://github.com/xgirma/e2e_test_recipes) Protractor
+## [:arrow_backward:](https://github.com/xgirma/e2e_test_recipes) Protractor
 
 [Protractor: ES6 module, ESM, jasmine](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/protractor/protractor-ES6-module-ESM-jasmine)
 
