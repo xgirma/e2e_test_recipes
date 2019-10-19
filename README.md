@@ -19,24 +19,6 @@
 | Jasmine  | :white_check_mark:  | 
 | Jest  |   | 
 | Mocha  |   | 
-
-### :wolf: [WebdriverIO](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/webdriverio)
-
-|   |  |
-|---:|:---|
-| commonjs  |  :white_check_mark: |
-| ES6 module  |   |
-| ESM  |   |
-| Babel  |   |
-| TypeScript  | |
-|   |   |
-| Assert  | :white_check_mark:  |
-| AVA  |   |
-| Chai  |   |
-| Cucumber  |   |
-| Jasmine  |   | 
-| Jest  |   | 
-| Mocha  |  :white_check_mark: |
  
 ### WD
 TODO
@@ -211,6 +193,26 @@ TODO
 | Jasmine  |   | 
 | Jest  |   | 
 | Mocha  |   |
+
+### :wolf: [WebdriverIO](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/webdriverio)
+
+|   |  |
+|---:|:---|
+| selenium-webdriver | :x: |
+|   |   |
+| commonjs  |  :white_check_mark: |
+| ES6 module  |   |
+| ESM  |   |
+| Babel  |   |
+| TypeScript  | |
+|   |   |
+| Assert  | :white_check_mark:  |
+| AVA  |   |
+| Chai  |   |
+| Cucumber  |   |
+| Jasmine  |   | 
+| Jest  |   | 
+| Mocha  |  :white_check_mark: |
      
 # Others:   
 Appium
