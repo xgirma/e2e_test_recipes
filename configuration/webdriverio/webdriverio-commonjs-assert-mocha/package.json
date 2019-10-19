@@ -1,0 +1,28 @@
+{
+  "name": "webdriverio-commonjs-assert",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio wdio.conf.js",
+    "lint": "npx eslint --ext .js ./ --fix"
+  },
+  "keywords": [],
+  "author": "Girma Nigusse",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^5.15.1",
+    "@wdio/dot-reporter": "^5.14.5",
+    "@wdio/local-runner": "^5.15.1",
+    "@wdio/mocha-framework": "^5.15.1",
+    "@wdio/sync": "^5.15.1",
+    "chromedriver": "^77.0.0",
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2",
+    "wdio-chromedriver-service": "^5.0.2"
+  },
+  "dependencies": {}
+}
