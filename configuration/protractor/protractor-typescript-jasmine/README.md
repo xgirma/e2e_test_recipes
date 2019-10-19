@@ -16,7 +16,7 @@
 | Jest  |  | 
 | Mocha  |  |
 
-## To run your test
+## To run the test
 
     npm install
     npm run upadte-webderiver
