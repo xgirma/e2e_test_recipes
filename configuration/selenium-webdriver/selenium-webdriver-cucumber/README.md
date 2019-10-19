@@ -1,13 +1,24 @@
-# selenium-webdriver: cucumberjs & chai
+## [:dog2:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/selenium-webdriver) selenium-webdriver: cucumberjs & chai
 
-    module: commonjs
-    
-    framework: selenium-webdriver, cucmberjs
-    
-    assertion: chai
+|   |  |
+|---:|:---|
+| selenium-webdriver | :white_check_mark: |
+|   |   |
+| commonjs  | :white_check_mark: |
+| ES6 module  |   |
+| ESM  |  |
+| Babel  |  |
+| TypeScript  |  |
+|   |   |
+| Assert  |   |
+| AVA  |   |
+| Chai  | :white_check_mark:  |
+| Cucumber  | :white_check_mark:  |
+| Jasmine  |  | 
+| Jest  |  | 
+| Mocha  |  |
 
-## To run your test
+## To run the test
 
     npm install
-    
     npm run test
