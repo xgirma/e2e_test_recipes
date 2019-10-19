@@ -2,6 +2,8 @@
 
 |   |  |
 |---:|:---|
+| selenium-webdriver | :white_check_mark: |
+|   |   |
 | commonjs  |   |
 | ES6 module  |  :white_check_mark:  |
 | ESM  |  |
