@@ -6,7 +6,7 @@ describe("google search", () => {
     browser.waitForAngularEnabled(false);
     browser.get("https://www.google.com/");
     const title = await browser.getTitle();
-    assert(title, "Google");
+    assert.strictEqual(title, "Google");
   });
 
   it("should search for Cheese!", () => {

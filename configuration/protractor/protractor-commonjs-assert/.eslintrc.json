@@ -3,7 +3,9 @@
         "browser": true,
         "commonjs": true,
         "es6": true,
-        "node": true
+        "node": true,
+        "protractor": true,
+        "jasmine": true
     },
     "extends": [
         "airbnb-base",

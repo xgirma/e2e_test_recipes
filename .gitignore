@@ -62,9 +62,9 @@ typings/
 # next.js build output
 .next
 
-./idea
-**/.idea
-**/**/.idea
-**/**/**/.idea
+.idea/
+**/.idea/
+**/**/.idea/
+**/**/**/.idea/
 
 .DS_Store

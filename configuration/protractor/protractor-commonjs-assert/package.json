@@ -1,8 +1,7 @@
 {
-  "name": "protractor-commonjs",
+  "name": "protractor-commonjs-assert",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "upadte-webderiver": "webdriver-manager update",
     "upadte-webderiver:to": "webdriver-manager update --chrome.version=77.0.3865.120",
@@ -10,9 +9,8 @@
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {},
+  "author": "Girma Nigusse",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
