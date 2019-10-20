@@ -1,18 +1,16 @@
 exports.config = {
   directConnect: true,
-  specs: [
-    'spec/*.spec.js',
-  ],
+  specs: ["spec/*.spec.js"],
   capabilities: {
-    browserName: 'chrome',
+    browserName: "chrome"
   },
-  framework: 'jasmine',
+  framework: "jasmine",
   jasmineNodeOpts: {
     isVerbose: true,
-    realtimeFailure: true,
+    realtimeFailure: true
   },
   onPrepare: () => {
     /* eslint-disable-next-line global-require */
-    require('@babel/register');
-  },
+    require("@babel/register");
+  }
 };
