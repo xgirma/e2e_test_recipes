@@ -210,7 +210,7 @@ TODO
 | AVA  |   |
 | Chai  |   |
 | Cucumber  |   |
-| Jasmine  |   | 
+| Jasmine  | :white_check_mark:   | 
 | Jest  |   | 
 | Mocha  |  :white_check_mark: |
      
