@@ -9,7 +9,7 @@ capabilities.set("chromeOptions", { w3c: false });
 const driver = new Builder().withCapabilities(capabilities).build();
 
 Given("I am on the Google search page", async () => {
-  await driver.get("http://www.google.com");
+  await driver.get("https://www.google.com");
 });
 
 When("I search for {string}", async searchWord => {

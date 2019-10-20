@@ -6,7 +6,7 @@ describe("google Search", () => {
 
   beforeAll(async () => {
     browser = await new Builder().forBrowser("chrome").build();
-    browser.get("http://www.google.com");
+    browser.get("https://www.google.com");
   });
 
   it("should be on google search page", async () => {
