@@ -6,4 +6,4 @@
 
 ## Useful links
 
-[API Docs](https://webdriver.io/docs/api.html)
+[API Docs](https://webdriver.io/docs/api.html){:target="_blank"}
