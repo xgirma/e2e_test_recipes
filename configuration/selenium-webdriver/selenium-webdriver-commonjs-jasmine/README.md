@@ -9,6 +9,7 @@
 | ESM  |  |
 | Babel  |  |
 | TypeScript  |  |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |

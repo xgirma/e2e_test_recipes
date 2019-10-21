@@ -11,6 +11,7 @@
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |
@@ -30,6 +31,7 @@ TODO
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |
@@ -49,6 +51,7 @@ TODO
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |
@@ -70,6 +73,7 @@ TODO
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |
@@ -89,6 +93,7 @@ TODO
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |
@@ -108,6 +113,7 @@ TODO
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |
@@ -127,6 +133,7 @@ TODO
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |
@@ -147,7 +154,7 @@ TODO
 | ESM  | :white_check_mark:   |
 | Babel  | :white_check_mark:   |
 | TypeScript  | :white_check_mark:  |
-| ts-node  | :white_check_mark:  |
+| ts-node  |  |
 |   |   |
 | Assert  |  :white_check_mark: |
 | AVA  |   |
@@ -167,6 +174,7 @@ TODO
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |
@@ -186,6 +194,7 @@ TODO
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |

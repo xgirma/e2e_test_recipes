@@ -9,6 +9,7 @@
 | ESM  | :white_check_mark: |
 | Babel  |  |
 | TypeScript  |   |
+| ts-node  |  |
 |   |   |
 | Assert  |   |
 | AVA  |   |
