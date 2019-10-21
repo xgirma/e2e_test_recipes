@@ -154,7 +154,7 @@ TODO
 | ESM  | :white_check_mark:   |
 | Babel  | :white_check_mark:   |
 | TypeScript  | :white_check_mark:  |
-| ts-node  |  |
+| ts-node  | :white_check_mark:  |
 |   |   |
 | Assert  |  :white_check_mark: |
 | AVA  |   |
