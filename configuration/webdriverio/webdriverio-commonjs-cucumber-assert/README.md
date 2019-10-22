@@ -16,7 +16,7 @@
 | Cucumber  | :white_check_mark: |
 | Jasmine  |  | 
 | Jest  |  | 
-| Mocha  | :white_check_mark: |
+| Mocha  |  |
 
 ## To run the test
 

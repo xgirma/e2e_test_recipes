@@ -211,16 +211,16 @@ TODO
 | selenium-webdriver | :x: |
 |   |   |
 | commonjs  |  :white_check_mark: |
-| ES6 module  |   |
+| ES6 module  | :white_check_mark:   |
 | ESM  |   |
 | Babel  |   |
-| TypeScript  | |
+| TypeScript  | :white_check_mark: |
 | ts-node  | :white_check_mark:  |
 |   |   |
 | Assert  | :white_check_mark:  |
 | AVA  |   |
-| Chai  |   |
-| Cucumber  |   |
+| Chai  | :white_check_mark:  |
+| Cucumber  | :white_check_mark:   |
 | Jasmine  | :white_check_mark:   | 
 | Jest  |   | 
 | Mocha  |  :white_check_mark: |
