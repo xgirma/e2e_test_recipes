@@ -2,7 +2,8 @@ exports.config = {
   runner: "local",
   path: "/",
   specs: ["./features/*.feature"],
-  capabilities: [{
+  capabilities: [
+    {
       browserName: "chrome"
     }
   ],
@@ -10,12 +11,8 @@ exports.config = {
   logLevel: "silent",
   framework: "cucumber",
   cucumberOpts: {
-    require: ['./features/step_definitions/stepdefs.js'],
-    timeout: 60000,
+    require: ["./features/step_definitions/stepdefs.js"],
+    timeout: 60000
   },
-  reporters: ["dot"],
-  before: function() {
-    const chai    = require('chai');
-    global.expect = chai.expect;
-  },
+  reporters: ["dot"]
 };
