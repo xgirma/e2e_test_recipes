@@ -6,7 +6,7 @@ exports.config = {
   },
   framework: "mocha",
   mochaOpts: {
-    reporter: "spec",
+    reporter: "dot",
     slow: 3000
   }
 };
