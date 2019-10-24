@@ -6,6 +6,8 @@
 
 [webdriverio: commonjs, mocha, assert](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/webdriverio/webdriverio-commonjs-mocha-assert)
 
+[webdriverio: ES6 modules, babel, mocha, chai](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/webdriverio/webdriverio-es6modules-babel-mocha-chai)
+
 [webdriverio: typescript, ES6 modules, ts-node, mocha, chai](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/webdriverio/webdriverio-typescript-es6modules-tsnode-mocha-chai)
 
 ## Useful links

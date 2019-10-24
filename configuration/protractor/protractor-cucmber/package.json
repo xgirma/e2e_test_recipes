@@ -1,22 +1,26 @@
 {
-  "name": "protractor-commonjs-assert",
+  "name": "protractor-cucmber",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
     "upadte-webderiver": "webdriver-manager update",
-    "test": "protractor protractor.conf.js",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "test": "npx protractor protractor.conf.js"
   },
   "keywords": [],
-  "author": "Girma Nigusse",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^6.0.2",
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.4.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.1",
+    "jasmine": "^3.5.0",
     "prettier": "^1.18.2",
-    "protractor": "^5.4.2"
+    "protractor": "^5.4.2",
+    "protractor-cucumber-framework": "^6.1.0"
   }
 }

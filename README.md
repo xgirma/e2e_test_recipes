@@ -213,7 +213,7 @@ TODO
 | commonjs  |  :white_check_mark: |
 | ES6 module  | :white_check_mark:   |
 | ESM  |   |
-| Babel  |   |
+| Babel  | :white_check_mark:  |
 | TypeScript  | :white_check_mark: |
 | ts-node  | :white_check_mark:  |
 |   |   |
