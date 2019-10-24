@@ -1,6 +1,6 @@
 # [:honeybee:](https://github.com/xgirma/e2e_test_recipes) WD
 
-[WD: webdriver-manager, mocha, chai](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/wd/wd-webdriver-manager-commonjs-chai)
+[WD: webdriver-manager, mocha, chai](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/wd/wd-webdriver-manager-commonjs-mocha-chai)
 
 ## Useful links
 
