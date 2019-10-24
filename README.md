@@ -149,6 +149,7 @@ TODO
 |   |  |
 |---:|:---|
 | selenium-webdriver | :white_check_mark: |
+| webdriver-manager | :white_check_mark: |
 |   |   |
 | commonjs  | :white_check_mark:  |
 | ES6 module  |  :white_check_mark:  |
