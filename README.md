@@ -21,12 +21,13 @@
 | Jest  |   | 
 | Mocha  |   | 
  
-### WD
-TODO
+### :honeybee: [WD](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/wd)
 
 |   |  |
 |---:|:---|
-| commonjs  |   |
+| selenium-webdriver | :x: |
+|   |   |
+| commonjs  |  :white_check_mark: |
 | ES6 module  |   |
 | ESM  |   |
 | Babel  |   |
@@ -35,11 +36,11 @@ TODO
 |   |   |
 | Assert  |   |
 | AVA  |   |
-| Chai  |   |
+| Chai  |  :white_check_mark: |
 | Cucumber  |   |
 | Jasmine  |   | 
 | Jest  |   | 
-| Mocha  |   |
+| Mocha  | :white_check_mark:  |
 
 ### jWebDriver
 TODO
