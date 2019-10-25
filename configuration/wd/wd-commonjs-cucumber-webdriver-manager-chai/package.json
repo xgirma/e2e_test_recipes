@@ -1,11 +1,12 @@
 {
-  "name": "wd-webdriver-manager-commonjs-mocha-chai",
+  "name": "wd-cucumber-webdriver-manager-chai",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
     "upadte-webderiver": "npx webdriver-manager update",
     "start-webderiver": "npx webdriver-manager start",
-    "test": "npx mocha spec/search.spec.js",
+    "test": "./node_modules/.bin/cucumber-js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [],
@@ -14,6 +15,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
+    "cucumber": "^6.0.2",
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.4.0",
@@ -21,7 +23,7 @@
     "eslint-plugin-prettier": "^3.1.1",
     "mocha": "^6.2.2",
     "prettier": "^1.18.2",
-    "webdriver-manager": "^12.1.7",
-    "wd": "^1.11.4"
+    "wd": "^1.11.4",
+    "webdriver-manager": "^12.1.7"
   }
 }

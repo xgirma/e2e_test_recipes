@@ -38,7 +38,7 @@
 | Assert  |   |
 | AVA  |   |
 | Chai  |  :white_check_mark: |
-| Cucumber  |   |
+| Cucumber  | :white_check_mark:  |
 | Jasmine  |   | 
 | Jest  |   | 
 | Mocha  | :white_check_mark:  |
