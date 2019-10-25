@@ -1,18 +1,15 @@
 {
-  "name": "protractor-cucmber",
+  "name": "puppeteer-commonjs-jasmine",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "upadte-webderiver": "webdriver-manager update",
-    "test": "TODO npx protractor protractor.conf.js"
+    "test": "npx jasmine",
+    "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Girma Nigusse",
+  "license": "MIT",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "cucumber": "^6.0.2",
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.4.0",
@@ -20,7 +17,6 @@
     "eslint-plugin-prettier": "^3.1.1",
     "jasmine": "^3.5.0",
     "prettier": "^1.18.2",
-    "protractor": "^5.4.2",
-    "protractor-cucumber-framework": "^6.1.0"
+    "puppeteer": "^2.0.0"
   }
 }
