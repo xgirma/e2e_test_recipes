@@ -178,7 +178,7 @@ TODO
 | ES6 module  | :white_check_mark:  |
 | ESM  | :white_check_mark:  |
 | Babel  | :white_check_mark:  |
-| TypeScript  | |
+| TypeScript  | :white_check_mark: |
 | ts-node  |  |
 |   |   |
 | Assert  | :white_check_mark:  |

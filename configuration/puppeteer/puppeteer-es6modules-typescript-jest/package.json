@@ -1,0 +1,30 @@
+{
+  "name": "puppeteer-es6modules-typescript-jest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "lint": "tslint -c tslint.json './__tests__/*.ts'",
+    "pretty": "prettier --no-config './__tests__/*.ts' --write"
+  },
+  "keywords": [
+    "puppeteer",
+    "typescript",
+    "boilerplate",
+    "example"
+  ],
+  "author": "Girma Nigusse",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.20",
+    "@types/node": "^12.11.7",
+    "@types/puppeteer": "^1.20.2",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2",
+    "puppeteer": "^2.0.0",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.20.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.6.4"
+  }
+}
