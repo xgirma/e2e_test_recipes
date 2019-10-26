@@ -1,8 +1,9 @@
-# [:baby_chick:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/protractor) Protractor: ES6 modules with ESM & jasmine
+# [:baby_chick:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/protractor) Protractor: With ES6 modules, ESM & jasmine
 
 |   |  |
 |---:|:---|
 | selenium-webdriver | :white_check_mark: |
+| webdriver-manager | :white_check_mark: |
 |   |   |
 | commonjs  |   |
 | ES6 module  |  :white_check_mark:  |
