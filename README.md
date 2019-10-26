@@ -183,11 +183,11 @@ TODO
 |   |   |
 | Assert  |   |
 | AVA  |   |
-| Chai  |   |
+| Chai  |  :white_check_mark:   |
 | Cucumber  |   |
 | Jasmine  | :white_check_mark:  | 
 | Jest  | :white_check_mark:  | 
-| Mocha  |   |
+| Mocha  | :white_check_mark:   |
 
 ### TestCafe
 TODO
