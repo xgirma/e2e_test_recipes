@@ -184,7 +184,7 @@ TODO
 | Assert  |   |
 | AVA  |   |
 | Chai  |  :white_check_mark:   |
-| Cucumber  |   |
+| Cucumber  | :white_check_mark: |
 | Jasmine  | :white_check_mark:  | 
 | Jest  | :white_check_mark:  | 
 | Mocha  | :white_check_mark:   |

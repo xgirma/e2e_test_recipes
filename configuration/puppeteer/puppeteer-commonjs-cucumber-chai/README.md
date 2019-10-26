@@ -1,4 +1,4 @@
-## [:beetle:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/puppeteer) Puppeteer: with commonjs, cucumber, & chai
+## [:beetle:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/puppeteer) Puppeteer: with commonjs, cucumber & chai
 
 |   |  |
 |---:|:---|
@@ -14,10 +14,10 @@
 |   |   |
 | Assert  |  |
 | AVA  |   |
-| Chai  | :white_check_mark:  |
-| Cucumber  | :white_check_mark: |
+| Chai  | :white_check_mark: |
+| Cucumber  | :white_check_mark:  |
 | Jasmine  |  | 
-| Jest  | | 
+| Jest  |  | 
 | Mocha  |  |
 
 ## To run the test

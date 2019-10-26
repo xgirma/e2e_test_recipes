@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 const puppeteer = require("puppeteer");
 const {expect} = require("chai");
 
