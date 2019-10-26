@@ -10,8 +10,8 @@
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4",

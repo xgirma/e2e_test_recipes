@@ -9,8 +9,8 @@
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [],
-  "author": "Girma Nigusse",
-  "license": "ISC",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",

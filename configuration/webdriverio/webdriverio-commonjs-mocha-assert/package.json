@@ -7,8 +7,8 @@
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [],
-  "author": "Girma Nigusse",
-  "license": "ISC",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
   "devDependencies": {
     "@wdio/cli": "^5.15.1",
     "@wdio/dot-reporter": "^5.14.5",

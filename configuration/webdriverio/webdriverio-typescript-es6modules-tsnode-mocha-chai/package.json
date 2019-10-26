@@ -13,8 +13,8 @@
     "boilerplate",
     "example"
   ],
-  "author": "Girma Nigusse",
-  "license": "ISC",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.2.3",
     "@types/mocha": "^5.2.7",

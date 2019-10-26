@@ -13,8 +13,8 @@
     "pretty": "prettier --no-config './spec/*.ts' --write"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
   "devDependencies": {
     "@types/jasmine": "^3.4.4",
     "@types/jasminewd2": "^2.0.8",

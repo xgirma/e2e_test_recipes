@@ -13,8 +13,8 @@
     "boilerplate",
     "example"
   ],
-  "author": "Girma Nigusse",
-  "license": "ISC",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^24.0.20",
     "@types/node": "^12.11.7",
