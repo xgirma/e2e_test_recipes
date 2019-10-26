@@ -1,12 +1,18 @@
 {
   "name": "puppeteer-commonjs-jasmine",
   "version": "1.0.0",
-  "description": "",
+  "description": "Puppeteer end-to-end test automation boilerplate project. Using commonjs and jasmine.",
   "scripts": {
     "test": "npx jasmine",
     "lint": "npx eslint --ext .js ./ --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "puppeteer",
+    "commonjs",
+    "jasmine",
+    "boilerplate",
+    "example"
+  ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
