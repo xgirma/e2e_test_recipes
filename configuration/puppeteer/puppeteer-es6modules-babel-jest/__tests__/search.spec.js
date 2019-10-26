@@ -1,4 +1,4 @@
-const puppeteer = require("puppeteer");
+import puppeteer from "puppeteer";
 
 let page;
 let browser;
@@ -10,8 +10,8 @@ describe("google search", () => {
     await page.goto("https://www.google.com", { waitUntil: "networkidle0" });
   });
 
-  afterAll(()=> {
-    if(!page.isClosed()){
+  afterAll(() => {
+    if (!page.isClosed()) {
       browser.close();
     }
   });
