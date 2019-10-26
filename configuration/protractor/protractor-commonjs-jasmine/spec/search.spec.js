@@ -1,4 +1,4 @@
-const protractor = require("protractor");
+const { ExpectedConditions, Key } = require("protractor");
 
 describe("google search", () => {
   beforeAll(() => {
@@ -14,12 +14,14 @@ describe("google search", () => {
   it("should search for Cheese!", () => {
     const searchBox = element(by.name("q"));
     expect(searchBox.isDisplayed()).toBe(true);
-    searchBox.sendKeys("Cheese!", protractor.Key.ENTER);
+    searchBox.sendKeys("Cheese!", Key.ENTER);
   });
 
   it('the page title should start with "Cheese!"', async () => {
+    browser.wait(ExpectedConditions.urlContains("search"), 5000);
+
     const title = await browser.getTitle();
-    const isTitleStartWithCheese = title.lastIndexOf("Cheese!", 0) === 0;
-    expect(isTitleStartWithCheese).toBe(true);
+    const words = title.split(" ");
+    expect(words[0]).toEqual("Cheese!");
   });
 });
