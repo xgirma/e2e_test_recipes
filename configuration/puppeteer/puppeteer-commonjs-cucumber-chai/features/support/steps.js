@@ -1,10 +1,19 @@
 /* eslint-disable no-unused-expressions */
-const { Given, When, Then, BeforeAll, AfterAll } = require("cucumber");
+const {
+  Given,
+  When,
+  Then,
+  BeforeAll,
+  AfterAll,
+  setDefaultTimeout
+} = require("cucumber");
 const puppeteer = require("puppeteer");
 const { expect } = require("chai");
 
 let page;
 let browser;
+
+setDefaultTimeout(50 * 1000);
 
 BeforeAll(async () => {
   browser = await puppeteer.launch({ headless: false });
@@ -32,6 +41,7 @@ When("I search for {string}", async searchWord => {
 
 Then("the page title should start with {string}", async searchWord => {
   await page.waitFor("#resultStats");
+
   const title = await page.title();
   const words = title.split(" ");
   expect(words[0]).to.equal(searchWord);
