@@ -182,7 +182,7 @@ TODO
 | ts-node  |  |
 |   |   |
 | Assert  | :white_check_mark:  |
-| AVA  |   |
+| AVA  | :white_check_mark:  |
 | Chai  |  :white_check_mark:   |
 | Cucumber  | :white_check_mark: |
 | Jasmine  | :white_check_mark:  | 
