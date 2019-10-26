@@ -3,13 +3,14 @@
 |   |  |
 |---:|:---|
 | selenium-webdriver | :white_check_mark: |
+| webdriver-manager | :white_check_mark: |
 |   |   |
 | commonjs  |   |
 | ES6 module  |  :white_check_mark:  |
 | ESM  |  |
 | Babel  |  |
 | TypeScript  | :white_check_mark:  |
-| ts-node  |  |
+| ts-node  | :white_check_mark: |
 |   |   |
 | Assert  |   |
 | AVA  |   |
