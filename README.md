@@ -186,7 +186,7 @@ TODO
 | Chai  |   |
 | Cucumber  |   |
 | Jasmine  | :white_check_mark:  | 
-| Jest  |   | 
+| Jest  | :white_check_mark:  | 
 | Mocha  |   |
 
 ### TestCafe

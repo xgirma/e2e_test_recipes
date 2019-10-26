@@ -14,11 +14,11 @@
 |   |   |
 | Assert  |  |
 | AVA  |   |
-| Chai  |   |
+| Chai  | :white_check_mark: |
 | Cucumber  |   |
 | Jasmine  | :white_check_mark: | 
-| Jest  |  | 
-| Mocha  |  |
+| Jest  | :white_check_mark: | 
+| Mocha  | :white_check_mark: |
 
 ## To run the test
 
