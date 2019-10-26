@@ -17,7 +17,7 @@
 | Chai  |   |
 | Cucumber  |   |
 | Jasmine  |  | 
-| Jest  | :white_check_mark: | 
+| Jest  | | 
 | Mocha  |  |
 
 ## To run the test
