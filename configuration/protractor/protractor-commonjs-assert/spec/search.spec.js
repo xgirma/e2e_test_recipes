@@ -6,12 +6,12 @@ describe("google search", () => {
     browser.waitForAngularEnabled(false);
     browser.get("https://www.google.com/");
     const title = await browser.getTitle();
-    assert.ok(title === "Google");
+    assert.strictEqual(title, "Google");
   });
 
   it("should search for Cheese!", async () => {
     const searchBox = element(by.name("q"));
-    assert.ok((await searchBox.isDisplayed()) === true);
+    assert(await searchBox.isDisplayed());
     searchBox.sendKeys("Cheese!", Key.ENTER);
   });
 
@@ -20,6 +20,6 @@ describe("google search", () => {
 
     const title = await browser.getTitle();
     const words = title.split(" ");
-    assert.ok(words[0] === "Cheese!");
+    assert.strictEqual(words[0], "Cheese!");
   });
 });

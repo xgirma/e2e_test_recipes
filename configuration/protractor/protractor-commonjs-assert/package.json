@@ -1,13 +1,19 @@
 {
   "name": "protractor-commonjs-assert",
   "version": "1.0.0",
-  "description": "",
+  "description": "Protractor end-to-end test automation boilerplate project. Using commonjs & assert",
   "scripts": {
-    "upadte-webderiver": "webdriver-manager update",
-    "test": "protractor protractor.conf.js",
+    "upadte-webderiver": "npx webdriver-manager update",
+    "test": "npx protractor protractor.conf.js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "protractor",
+    "commonjs",
+    "assert",
+    "boilerplate",
+    "example"
+  ],
   "author": "Girma Nigusse",
   "license": "MIT",
   "devDependencies": {
