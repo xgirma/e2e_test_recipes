@@ -175,13 +175,13 @@ TODO
 | webdriver-manager | :x: |
 |   |   |
 | commonjs  | :white_check_mark:  |
-| ES6 module  |   |
-| ESM  |   |
+| ES6 module  | :white_check_mark:  |
+| ESM  | :white_check_mark:  |
 | Babel  |   |
 | TypeScript  | |
 | ts-node  |  |
 |   |   |
-| Assert  | :white_check_mark:   |
+| Assert  | :white_check_mark:  |
 | AVA  |   |
 | Chai  |  :white_check_mark:   |
 | Cucumber  | :white_check_mark: |
