@@ -6,6 +6,8 @@
 
 [Puppeteer, commonjs, jest](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/puppeteer/puppeteer-commonjs-jest)
 
+[Puppeteer, commonjs, mocha, assert](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/puppeteer/puppeteer-commonjs-mocha-assert)
+
 [Puppeteer, commonjs, mocha, chai](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/puppeteer/puppeteer-commonjs-mocha-chai)
 
 # Useful links

@@ -181,7 +181,7 @@ TODO
 | TypeScript  | |
 | ts-node  |  |
 |   |   |
-| Assert  |   |
+| Assert  | :white_check_mark:   |
 | AVA  |   |
 | Chai  |  :white_check_mark:   |
 | Cucumber  | :white_check_mark: |
