@@ -1,15 +1,21 @@
 {
   "name": "wd-cucumber-webdriver-manager-chai",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "WD end-to-end test automation boilerplate project. Using commons, cucumber, webdriver-manager and chai.",
   "scripts": {
     "upadte-webderiver": "npx webdriver-manager update",
     "start-webderiver": "npx webdriver-manager start",
     "test": "./node_modules/.bin/cucumber-js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "wd",
+    "cucumber",
+    "webdriver-manager",
+    "chai",
+    "boilerplate",
+    "example"
+  ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
