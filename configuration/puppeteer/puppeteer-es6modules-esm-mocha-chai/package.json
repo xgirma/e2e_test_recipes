@@ -1,15 +1,17 @@
 {
-  "name": "puppeteer-es6modules-esm-jest",
+  "name": "puppeteer-es6modules-esm-mocha-chai",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Puppeteer end-to-end test automation boilerplate project. Using ES6 modules, ESM, mocha and chai.",
   "scripts": {
     "test": "npx mocha -r esm spec/search.spec.js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [
     "puppeteer",
+    "es6 modules",
     "esm",
+    "mocha",
+    "chai",
     "boilerplate",
     "example"
   ],

@@ -9,6 +9,7 @@
   "keywords": [
     "puppeteer",
     "mocha",
+    "assert",
     "boilerplate",
     "example"
   ],

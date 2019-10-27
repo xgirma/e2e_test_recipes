@@ -15,10 +15,10 @@
 | Assert  |  |
 | AVA  |   |
 | Chai  | :white_check_mark:  |
-| Cucumber  | :white_check_mark: |
+| Cucumber  | |
 | Jasmine  |  | 
 | Jest  | | 
-| Mocha  |  |
+| Mocha  | :white_check_mark: |
 
 ## To run the test
 

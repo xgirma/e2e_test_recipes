@@ -12,13 +12,20 @@ const { expect } = require("chai");
 
 let page;
 let browser;
+const searchBox = ".gLFyf.gsfi";
 
 setDefaultTimeout(50 * 1000);
 
 BeforeAll(async () => {
   browser = await puppeteer.launch({ headless: false });
   page = await browser.newPage();
-  await page.goto("https://www.google.com", { waitUntil: "networkidle0" });
+
+  await Promise.race([
+    page
+      .goto("https://www.google.com", { waitUntil: "networkidle0" })
+      .catch(() => {}),
+    page.waitFor("body", { timeout: 6000 }).catch(() => {})
+  ]);
 });
 
 AfterAll(() => {
@@ -28,12 +35,12 @@ AfterAll(() => {
 });
 
 Given("I am on the Google search page", async () => {
+  await page.waitFor(searchBox);
   const title = await page.title();
   expect(title).to.equal("Google");
 });
 
 When("I search for {string}", async searchWord => {
-  const searchBox = ".gLFyf.gsfi";
   expect(!!(await page.$(searchBox))).to.be.true;
   await page.type(searchBox, searchWord, { delay: 100 });
   await page.keyboard.press("\n");

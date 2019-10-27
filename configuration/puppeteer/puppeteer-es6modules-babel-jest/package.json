@@ -1,7 +1,7 @@
 {
   "name": "puppeteer-es6modules-babel-jest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Puppeteer end-to-end test automation boilerplate project. Using ES6 modules and jest.",
   "scripts": {
     "test": "jest",
     "lint": "npx eslint --ext .js ./ --fix"
