@@ -1,14 +1,18 @@
 {
-  "name": "selenium-webdriver-commonjs",
+  "name": "selenium-webdriver-commonjs-jasmine",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "selenium-webdriver end-to-end test automation boilerplate project. Using commonjs & jasmine",
   "scripts": {
-    "prepare": "./node_modules/.bin/jasmine init",
-    "test": "jasmine",
+    "test": "npx jasmine",
     "lint": "npx eslint --ext .js ./ --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "selenium-webdriver",
+    "commonjs",
+    "jasmine",
+    "boilerplate",
+    "example"
+  ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
@@ -21,6 +25,5 @@
     "jasmine": "^3.5.0",
     "selenium-webdriver": "^4.0.0-alpha.5",
     "prettier": "^1.18.2"
-  },
-  "dependencies": {}
+  }
 }

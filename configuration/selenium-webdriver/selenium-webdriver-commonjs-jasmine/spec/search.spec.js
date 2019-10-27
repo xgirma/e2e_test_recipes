@@ -1,4 +1,4 @@
-const { Builder, By, Key } = require("selenium-webdriver");
+const { Builder, By, Key, until } = require("selenium-webdriver");
 require("chromedriver");
 
 describe("google Search", () => {
@@ -9,7 +9,14 @@ describe("google Search", () => {
     browser.get("https://www.google.com");
   });
 
+  afterAll(() => {
+    browser.quit();
+  });
+
   it("should be on google search page", async () => {
+    const searchBox = await browser.findElement(By.name("q"));
+    await browser.wait(until.elementIsVisible(searchBox), 5000);
+
     const title = await browser.getTitle();
     expect(title).toEqual("Google");
   });
@@ -21,12 +28,10 @@ describe("google Search", () => {
   });
 
   it('the page title should start with "Cheese!"', async () => {
+    await browser.wait(until.urlContains("search"), 5000);
+
     const title = await browser.getTitle();
     const isTitleStartWithCheese = title.lastIndexOf("Cheese!", 0) === 0;
     expect(isTitleStartWithCheese).toBe(true);
-  });
-
-  afterAll(() => {
-    browser.quit();
   });
 });

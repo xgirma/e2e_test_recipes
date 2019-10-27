@@ -1,5 +1,5 @@
-const { Given, When, Then, AfterAll } = require("cucumber");
-const { Builder, By, Capabilities, Key } = require("selenium-webdriver");
+const { Given, When, Then, AfterAll, BeforeAll } = require("cucumber");
+const { Builder, By, Capabilities, Key, until } = require("selenium-webdriver");
 const { expect } = require("chai");
 
 require("chromedriver");
@@ -8,8 +8,20 @@ const capabilities = Capabilities.chrome();
 capabilities.set("chromeOptions", { w3c: false });
 const driver = new Builder().withCapabilities(capabilities).build();
 
-Given("I am on the Google search page", async () => {
+BeforeAll("start", async () => {
   await driver.get("https://www.google.com");
+});
+
+AfterAll("end", async () => {
+  await driver.quit();
+});
+
+Given("I am on the Google search page", async () => {
+  const element = await driver.findElement(By.name("q"));
+  await driver.wait(until.elementIsVisible(element), 5000);
+
+  const title = await driver.getTitle();
+  expect(title).to.equal("Google");
 });
 
 When("I search for {string}", async searchWord => {
@@ -18,17 +30,10 @@ When("I search for {string}", async searchWord => {
   element.submit();
 });
 
-Then(
-  "the page title should start with {string}",
-  { timeout: 60 * 1000 },
-  async searchWord => {
-    const title = await driver.getTitle();
-    const isTitleStartWithCheese =
-      title.toLowerCase().lastIndexOf(`${searchWord}`, 0) === 0;
-    expect(isTitleStartWithCheese).to.equal(true);
-  }
-);
+Then("the page title should start with {string}", async searchWord => {
+  await driver.wait(until.urlContains("search"), 5000);
 
-AfterAll("end", async () => {
-  await driver.quit();
+  const title = await driver.getTitle();
+  const words = title.split(" ");
+  expect(words[0]).to.equal(searchWord);
 });
