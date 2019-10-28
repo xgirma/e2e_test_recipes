@@ -8,7 +8,9 @@
   },
   "keywords": [
     "webdriverio",
+    "commonjs",
     "cucumber",
+    "assert",
     "boilerplate",
     "example"
   ],

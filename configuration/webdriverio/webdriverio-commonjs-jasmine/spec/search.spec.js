@@ -4,6 +4,9 @@ describe("google search", () => {
   });
 
   it("should be on google search page", async () => {
+    const searchBox = $(".gLFyf.gsfi");
+    await searchBox.waitForDisplayed(5000);
+
     const title = await browser.getTitle();
     expect(title).toEqual("Google");
   });

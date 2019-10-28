@@ -1,15 +1,20 @@
 {
   "name": "webdriverio-commonjs-jasmine",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "WebdriverIO end-to-end test automation boilerplate project. Using commonjs & jasmine.",
   "scripts": {
     "test": "./node_modules/.bin/wdio wdio.conf.js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "webdriverio",
+    "commonjs",
+    "jasmine",
+    "boilerplate",
+    "example"
+  ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@wdio/cli": "^5.15.1",
     "@wdio/dot-reporter": "^5.14.5",

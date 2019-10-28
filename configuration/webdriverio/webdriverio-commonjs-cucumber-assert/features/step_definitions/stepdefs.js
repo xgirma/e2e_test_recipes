@@ -1,8 +1,14 @@
-const { Given, When, Then } = require("cucumber");
+const { Given, When, Then, BeforeAll } = require("cucumber");
 const assert = require("assert");
 
-Given("I am on the Google search page", async () => {
+BeforeAll(async () => {
   await browser.url("https://www.google.com/");
+});
+
+Given("I am on the Google search page", async () => {
+  const searchBox = await $(".gLFyf.gsfi");
+  await searchBox.waitForDisplayed(5000);
+
   const title = await browser.getTitle();
   assert.strictEqual(title, "Google");
 });
@@ -23,7 +29,6 @@ Then("the page title should start with {string}", searchWord => {
   resultStats.waitForDisplayed(5000);
 
   const title = browser.getTitle();
-  const isTitleStartWithCheese =
-    title.toLowerCase().lastIndexOf(`${searchWord}`, 0) === 0;
-  assert.strictEqual(isTitleStartWithCheese, true);
+  const words = title.split(" ");
+  assert.strictEqual(words[0], searchWord);
 });
