@@ -6,6 +6,8 @@
 
 [Protractor: commonjs, mocha, assert](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/protractor/protractor-commonjs-mocha-assert)
 
+[Protractor: commonjs, mocha, chai](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/protractor/protractor-commonjs-mocha-chai)
+
 [Protractor: ES6 module, babel, jasmine](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/protractor/protractor-es6modules-babel-jasmine)
 
 [Protractor: ES6 module, ESM, jasmine](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/protractor/protractor-es6modules-esm-jasmine)
