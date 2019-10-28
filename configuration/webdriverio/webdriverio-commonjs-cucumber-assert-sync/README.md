@@ -1,9 +1,9 @@
-# [:wolf:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/webdriverio) WebdriverIO: commonjs, cucumber, assert
+# [:wolf:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/webdriverio) WebdriverIO (sync): commonjs, cucumber, assert
 
 |   |  |
 |---:|:---|
 | selenium-webdriver | :x: |
-| webdriver-manager | :white_check_mark: |
+| webdriver-manager | :x: |
 |   |   |
 | commonjs  | :white_check_mark: |
 | ES6 module  |  |

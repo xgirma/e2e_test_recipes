@@ -3,11 +3,11 @@ describe("google search", () => {
     browser.url("https://www.google.com/");
   });
 
-  it("should be on google search page", async () => {
+  it("should be on google search page", () => {
     const searchBox = $(".gLFyf.gsfi");
-    await searchBox.waitForDisplayed(5000);
+    searchBox.waitForDisplayed(5000);
 
-    const title = await browser.getTitle();
+    const title = browser.getTitle();
     expect(title).toEqual("Google");
   });
 

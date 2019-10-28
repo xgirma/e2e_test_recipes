@@ -1,7 +1,7 @@
 {
-  "name": "webdriverio-commonjs-cucumber-assert",
+  "name": "webdriverio-commonjs-cucumber-assert-sync",
   "version": "1.0.0",
-  "description": "",
+  "description": "WebdriverIO (sync) end-to-end test automation boilerplate project. Using cucumber, commonjs, and assert.",
   "scripts": {
     "test": "npx wdio wdio.conf.js",
     "lint": "npx eslint --ext .js ./ --fix"
