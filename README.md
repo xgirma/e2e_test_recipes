@@ -7,16 +7,16 @@
 |   |  |
 |---:|:---|
 | commonjs  | :white_check_mark:  |
-| ES6 module  |   |
+| ES6 module  |  :white_check_mark: |
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
 | ts-node  |  |
 |   |   |
 | Assert  |   |
-| AVA  |   |
+| AVA  | :white_check_mark:  |
 | Chai  | :white_check_mark:  |
-| Cucumber  |   |
+| Cucumber  | :white_check_mark:  |
 | Jasmine  | :white_check_mark:  | 
 | Jest  | :white_check_mark:  | 
 | Mocha  |   | 

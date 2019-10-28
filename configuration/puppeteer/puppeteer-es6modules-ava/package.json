@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Puppeteer end-to-end test automation boilerplate project. Using ES6 modules and AVA.",
   "scripts": {
-    "test": "ava",
+    "test": "npx ava",
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [
