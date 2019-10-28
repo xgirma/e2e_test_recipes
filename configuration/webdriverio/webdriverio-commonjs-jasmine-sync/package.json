@@ -1,7 +1,7 @@
 {
-  "name": "webdriverio-commonjs-jasmine",
+  "name": "webdriverio-commonjs-jasmine-sync",
   "version": "1.0.0",
-  "description": "WebdriverIO end-to-end test automation boilerplate project. Using commonjs and jasmine.",
+  "description": "WebdriverIO (sync) end-to-end test automation boilerplate project. Using commonjs and jasmine.",
   "scripts": {
     "test": "./node_modules/.bin/wdio wdio.conf.js",
     "lint": "npx eslint --ext .js ./ --fix"

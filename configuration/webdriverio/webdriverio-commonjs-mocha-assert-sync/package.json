@@ -1,12 +1,19 @@
 {
-  "name": "webdriverio-commonjs-assert",
+  "name": "webdriverio-commonjs-assert-sync",
   "version": "1.0.0",
-  "description": "",
+  "description": "WebdriverIO (sync) end-to-end test automation boilerplate project. Using commonjs, assert & mocha",
   "scripts": {
     "test": "./node_modules/.bin/wdio wdio.conf.js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "webdriverio",
+    "commonjs",
+    "assert",
+    "sync",
+    "boilerplate",
+    "example"
+  ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
@@ -23,6 +30,5 @@
     "eslint-plugin-prettier": "^3.1.1",
     "prettier": "^1.18.2",
     "wdio-chromedriver-service": "^5.0.2"
-  },
-  "dependencies": {}
+  }
 }

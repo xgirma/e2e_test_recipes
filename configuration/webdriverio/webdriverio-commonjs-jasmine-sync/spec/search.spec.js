@@ -1,10 +1,12 @@
+let searchBox;
+
 describe("google search", () => {
   beforeAll(() => {
     browser.url("https://www.google.com/");
   });
 
   it("should be on google search page", () => {
-    const searchBox = $(".gLFyf.gsfi");
+    searchBox = $(".gLFyf.gsfi");
     searchBox.waitForDisplayed(5000);
 
     const title = browser.getTitle();
@@ -12,7 +14,6 @@ describe("google search", () => {
   });
 
   it("should search for Cheese!", () => {
-    const searchBox = $(".gLFyf.gsfi");
     expect(searchBox.isDisplayed()).toBe(true);
     searchBox.addValue("Cheese!");
 

@@ -1,7 +1,7 @@
 {
-  "name": "webdriverio-es6modules-babel-mocha-chai",
+  "name": "webdriverio-es6modules-babel-mocha-chai-sync",
   "version": "1.0.0",
-  "description": "",
+  "description": "WebdriverIO (sync) end-to-end test automation boilerplate project. Using ES6 modules, babel, mocha & chai",
   "scripts": {
     "test": "npx wdio wdio.conf.js",
     "lint": "npx eslint --ext .js ./ --fix"
@@ -10,6 +10,9 @@
     "webdriverio",
     "es6 modules",
     "babel",
+    "mocha",
+    "chai",
+    "sync",
     "boilerplate",
     "example"
   ],
