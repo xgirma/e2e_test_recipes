@@ -3,6 +3,7 @@
 |   |  |
 |---:|:---|
 | selenium-webdriver | :x: |
+| webdriver-manager | :x: |
 |   |   |
 | commonjs  | :white_check_mark: |
 | ES6 module  |   |
