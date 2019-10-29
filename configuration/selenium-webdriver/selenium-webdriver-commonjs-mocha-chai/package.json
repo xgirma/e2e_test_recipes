@@ -1,28 +1,30 @@
 {
-  "name": "selenium-webdriver-es6modules-ava",
+  "name": "selenium-webdriver-commonjs-mocha-chai",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate project. Using commonjs and ava.",
+  "description": "selenium-webdriver end-to-end test automation boilerplate project. Using commonjs, mocha and chai.",
   "scripts": {
-    "test": "npx ava",
+    "test": "npx mocha spec/search.spec.js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [
     "selenium-webdriver",
-    "es6modules",
-    "ava",
+    "commonjs",
+    "mocha",
+    "chai",
     "boilerplate",
-    "example"
+    "examples"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^2.4.0",
-    "chromedriver": "^77.0.0",
+    "chai": "^4.2.0",
+    "chromedriver": "^78.0.1",
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.4.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.1",
+    "mocha": "^6.2.2",
     "prettier": "^1.18.2",
     "selenium-webdriver": "^4.0.0-alpha.5"
   }

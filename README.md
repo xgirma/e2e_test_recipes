@@ -19,7 +19,7 @@
 | Cucumber  | :white_check_mark:  |
 | Jasmine  | :white_check_mark:  | 
 | Jest  | :white_check_mark:  | 
-| Mocha  |   | 
+| Mocha  | :white_check_mark:  | 
  
 ### :honeybee: [WD](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/wd)
 
