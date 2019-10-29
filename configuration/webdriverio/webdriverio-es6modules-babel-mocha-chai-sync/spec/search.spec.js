@@ -12,11 +12,11 @@ describe("google search", () => {
     searchBox.waitForDisplayed(5000);
 
     const title = browser.getTitle();
-    expect(title).to.eq("Google");
+    expect(title).to.equal("Google");
   });
 
   it("should search for Cheese!", () => {
-    expect(searchBox.isDisplayed()).to.eq(true);
+    expect(searchBox.isDisplayed()).to.equal(true);
     searchBox.addValue("Cheese!");
 
     const googleSearchButton = $(".gNO89b");
@@ -30,6 +30,6 @@ describe("google search", () => {
 
     const title = browser.getTitle();
     const words = title.split(" ");
-    expect(words[0]).to.eq("Cheese!");
+    expect(words[0]).to.equal("Cheese!");
   });
 });

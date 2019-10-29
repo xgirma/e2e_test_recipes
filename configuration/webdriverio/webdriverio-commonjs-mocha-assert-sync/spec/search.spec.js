@@ -26,7 +26,7 @@ describe("google search", () => {
     resultStats.waitForDisplayed(5000);
 
     const title = browser.getTitle();
-    const isTitleStartWithCheese = title.lastIndexOf("Cheese!", 0) === 0;
-    assert.strictEqual(isTitleStartWithCheese, true);
+    const words = title.split(" ");
+    assert.strictEqual(words[0], "Cheese!");
   });
 });

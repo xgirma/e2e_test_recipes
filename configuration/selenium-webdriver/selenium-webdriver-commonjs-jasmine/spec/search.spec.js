@@ -30,8 +30,8 @@ describe("google Search", () => {
   it('the page title should start with "Cheese!"', async () => {
     await browser.wait(until.urlContains("search"), 5000);
 
-    const title = await browser.getTitle();
-    const isTitleStartWithCheese = title.lastIndexOf("Cheese!", 0) === 0;
-    expect(isTitleStartWithCheese).toBe(true);
+    const title = await page.title();
+    const words = title.split(" ");
+    expect(words[0]).to.equal(searchWord);
   });
 });
