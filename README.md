@@ -8,7 +8,7 @@
 |---:|:---|
 | commonjs  | :white_check_mark:  |
 | ES6 module  |  :white_check_mark: |
-| ESM  |   |
+| ESM  | :white_check_mark:   |
 | Babel  |   |
 | TypeScript  | |
 | ts-node  |  |
