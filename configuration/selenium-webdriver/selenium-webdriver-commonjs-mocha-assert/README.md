@@ -1,4 +1,4 @@
-## [:dog2:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/selenium-webdriver) selenium-webdriver: commonjs, mocha & chai
+## [:dog2:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/selenium-webdriver) selenium-webdriver: commonjs & assert
 
 |   |  |
 |---:|:---|
@@ -11,9 +11,9 @@
 | TypeScript  |  |
 | ts-node  |  |
 |   |   |
-| Assert  |   |
+| Assert  | white_check_mark:  |
 | AVA  |  |
-| Chai  | :white_check_mark:  |
+| Chai  | :  |
 | Cucumber  |   |
 | Jasmine  |  | 
 | Jest  | | 
