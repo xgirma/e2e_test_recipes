@@ -3,7 +3,7 @@ import { Builder, By, Key, until } from "selenium-webdriver";
 import "chromedriver";
 
 describe("google Search", () => {
-  let browser :any;
+  let browser: any;
 
   beforeAll(async () => {
     browser = await new Builder().forBrowser("chrome").build();

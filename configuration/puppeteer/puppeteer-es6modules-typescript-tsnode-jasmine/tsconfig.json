@@ -9,7 +9,7 @@
     "outDir": "build",
     "types": [
       "node",
-      "jest",
+      "puppeteer",
       "jasmine"
     ]
   }
