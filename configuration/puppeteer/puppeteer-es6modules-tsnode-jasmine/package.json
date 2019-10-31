@@ -1,0 +1,35 @@
+{
+  "name": "puppeteer-es6modules-typescript-tsnode-jasmine",
+  "version": "1.0.0",
+  "description": "Puppeteer end-to-end test automation boilerplate project. Using ES6 modules, ts-node, and jasmine.",
+  "scripts": {
+    "test": "npx jasmine",
+    "lint": "tslint -c tslint.json './spec/*.ts'",
+    "pretty": "prettier --no-config './spec/*.ts' --write"
+  },
+  "keywords": [
+    "puppeteer",
+    "typescript",
+    "es6 modules",
+    "ts-node",
+    "jasmine",
+    "boilerplate",
+    "example"
+  ],
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.20",
+    "@types/node": "^12.11.7",
+    "@types/puppeteer": "^1.20.2",
+    "jasmine": "^3.5.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2",
+    "puppeteer": "^2.0.0",
+    "ts-node": "^8.4.1",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.20.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.6.4"
+  }
+}
