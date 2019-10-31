@@ -10,8 +10,8 @@
 | ES6 module  |  :white_check_mark: |
 | ESM  | :white_check_mark:   |
 | Babel  | :white_check_mark:   |
-| TypeScript  | |
-| ts-node  |  |
+| TypeScript  | :white_check_mark: |
+| ts-node  | :white_check_mark: |
 |   |   |
 | Assert  | :white_check_mark:  |
 | AVA  | :white_check_mark:  |
