@@ -65,13 +65,15 @@ TODO
 
 ## Configuration: Frameworks
 
-### Cypress
-TODO
+### :poodle: [Cypress](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/cypress)
 
 |   |  |
 |---:|:---|
-| commonjs  |   |
-| ES6 module  |   |
+| selenium-webdriver | :x: |
+| webdriver-manager | :x: |
+|   |   |
+| commonjs  | :white_check_mark: |
+| ES6 module  | :white_check_mark:  |
 | ESM  |   |
 | Babel  |   |
 | TypeScript  | |
