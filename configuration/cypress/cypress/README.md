@@ -5,8 +5,8 @@
 | selenium-webdriver | :x: |
 | webdriver-manager | :x: |
 |   |   |
-| commonjs  | :white_check_mark: |
-| ES6 module  | :white_check_mark:  |
+| commonjs  |  |
+| ES6 module  |  |
 | ESM  |  |
 | Babel  |  |
 | TypeScript  |  |
