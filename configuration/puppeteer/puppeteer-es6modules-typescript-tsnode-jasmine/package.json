@@ -4,8 +4,8 @@
   "description": "Puppeteer end-to-end test automation boilerplate project. Using ES6 modules, ts-node, and jasmine.",
   "scripts": {
     "test": "npx jasmine",
-    "lint": "tslint -c tslint.json './spec/*.ts'",
-    "pretty": "prettier --no-config './spec/*.ts' --write"
+    "lint": "npx tslint -c tslint.json './spec/*.ts'",
+    "pretty": "npx prettier --no-config './spec/*.ts' --write"
   },
   "keywords": [
     "puppeteer",

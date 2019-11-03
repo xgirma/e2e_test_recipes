@@ -73,19 +73,21 @@ TODO
 | webdriver-manager | :x: |
 |   |   |
 | commonjs  | :white_check_mark: |
-| ES6 module  | :white_check_mark:  |
-| ESM  |   |
-| Babel  |   |
-| TypeScript  | |
+| ES6 module  | :white_check_mark: |
+| ESM  |  |
+| Babel  |  |
+| TypeScript  | :white_check_mark: |
 | ts-node  |  |
+| webpack | :white_check_mark: |
+| browserify | |
 |   |   |
 | Assert  |   |
 | AVA  |   |
-| Chai  |   |
+| Chai  | :white_check_mark:  |
 | Cucumber  |   |
-| Jasmine  |   | 
-| Jest  |   | 
-| Mocha  |   |
+| Jasmine  |  | 
+| Jest  |  | 
+| Mocha  | :white_check_mark: |
 
 ### Nemo
 TODO

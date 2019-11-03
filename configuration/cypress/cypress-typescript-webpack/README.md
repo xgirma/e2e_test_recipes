@@ -1,4 +1,4 @@
-## [:poodle:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/selenium-webdriver) cypress
+## [:poodle:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/selenium-webdriver) cypress: with TypeScript, webpack 
 
 |   |  |
 |---:|:---|
@@ -9,9 +9,9 @@
 | ES6 module  | :white_check_mark: |
 | ESM  |  |
 | Babel  |  |
-| TypeScript  |  |
+| TypeScript  | :white_check_mark: |
 | ts-node  |  |
-| webpack | |
+| webpack | :white_check_mark: |
 | browserify | |
 |   |   |
 | Assert  |   |
@@ -26,3 +26,5 @@
 
     npm install
     npm run test
+    
+## Useful Links

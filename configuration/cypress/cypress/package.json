@@ -1,15 +1,13 @@
 {
   "name": "cypress-commonjs-es6modules",
   "version": "1.0.0",
-  "description": "cypress end-to-end test automation boilerplate project. Using commonjs",
+  "description": "cypress end-to-end test automation boilerplate project.",
   "scripts": {
     "test": "npx cypress open",
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [
     "cypress",
-    "commonjs",
-    "es6 modules",
     "boilerplate",
     "example"
   ],

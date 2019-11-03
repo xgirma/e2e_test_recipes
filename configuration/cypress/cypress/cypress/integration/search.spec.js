@@ -8,16 +8,14 @@ describe("google search", () => {
   });
 
   it(`should search for Cheese!`, () => {
-    cy.fixture("data.json").then(data => {
+    cy.fixture("data").should(data => {
       cy.get(".gLFyf.gsfi").type(`${data.searchWord}{enter}`);
     });
   });
 
-  it(`the page title should start with Cheese!`, async () => {
-    cy.fixture("data.json")
-      .as("data.json")
-      .then(data => {
-        cy.title().should("contain", data.searchWord);
-      });
+  it(`the page title should start with Cheese!`, () => {
+    cy.fixture("data").should(data => {
+      cy.title().should("contain", data.searchWord);
+    });
   });
 });
