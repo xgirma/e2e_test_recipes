@@ -21,14 +21,14 @@
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
-    "@types/jasmine": "^3.4.4",
-    "@types/jasminewd2": "^2.0.8",
-    "@types/node": "^12.7.12",
-    "prettier": "^1.18.2",
-    "protractor": "^5.4.2",
-    "rimraf": "^3.0.0",
-    "tslint": "^5.20.0",
-    "tslint-config-prettier": "^1.18.0",
-    "typescript": "^3.6.4"
+    "@types/jasmine": "3.4.4",
+    "@types/jasminewd2": "2.0.8",
+    "@types/node": "12.7.12",
+    "prettier": "1.18.2",
+    "protractor": "5.4.2",
+    "rimraf": "3.0.0",
+    "tslint": "5.20.0",
+    "tslint-config-prettier": "1.18.0",
+    "typescript": "3.6.4"
   }
 }
