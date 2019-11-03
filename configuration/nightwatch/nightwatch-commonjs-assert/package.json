@@ -1,0 +1,27 @@
+{
+  "name": "nightwatch-commonjs-assert",
+  "version": "1.0.0",
+  "description": "nightwatch end-to-end test automation boilerplate project. Using commonjs and assert.",
+  "scripts": {
+    "test": "npx nightwatch",
+    "lint": "npx eslint --ext .js ./ --fix"
+  },
+  "keywords": [
+    "nightwatch",
+    "commonjs",
+    "boilerplate",
+    "example"
+  ],
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
+  "devDependencies": {
+    "chromedriver": "78.0.1",
+    "eslint": "6.6.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-config-prettier": "6.4.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-prettier": "3.1.1",
+    "nightwatch": "1.2.4",
+    "prettier": "1.18.2"
+  }
+}

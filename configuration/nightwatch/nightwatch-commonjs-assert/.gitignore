@@ -59,9 +59,12 @@ typings/
 # next.js build output
 .next
 
+# webstorm
 ./idea
 
+# nightwatch
 tests_output/
 
+# OS X
 .DS_Store
 
