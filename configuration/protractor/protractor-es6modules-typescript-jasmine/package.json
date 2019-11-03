@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Protractor end-to-end test automation boilerplate project. Using: ES6 modules, TypeScript, & jasmine.",
   "scripts": {
-    "clean": "rimraf ./build/*",
+    "clean": "npx rimraf ./build/*",
     "upadte-webderiver": "webdriver-manager update",
     "build": "npx tsc",
     "test": "npx protractor ./build/protractor.conf.js",

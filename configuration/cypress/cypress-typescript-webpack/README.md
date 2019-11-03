@@ -26,5 +26,3 @@
 
     npm install
     npm run test
-    
-## Useful Links

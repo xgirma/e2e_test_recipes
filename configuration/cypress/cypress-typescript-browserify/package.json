@@ -1,8 +1,7 @@
 {
-  "name": "cypress-typescript-webpack",
+  "name": "cypress-typescript-browserify",
   "version": "1.0.0",
-  "description": "cypress end-to-end test automation boilerplate project. Using TypeScript and webpack",
-  "main": "index.js",
+  "description": "cypress end-to-end test automation boilerplate project. Using TypeScript and browserify",
   "scripts": {
     "clean:video": "npx rimraf cypress/videos/*",
     "clean:screenshots": "npx cypress/screenshots/*",
@@ -14,14 +13,14 @@
   "keywords": [
     "cypress",
     "typescript",
-    "webpack",
+    "browserify",
     "boilerplate",
     "example"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
-    "@cypress/webpack-preprocessor": "^4.1.0",
+    "@cypress/browserify-preprocessor": "^2.1.1",
     "cypress": "^3.6.0",
     "prettier": "^1.18.2",
     "ts-loader": "^6.2.1",
