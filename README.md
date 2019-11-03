@@ -79,7 +79,7 @@ TODO
 | TypeScript  | :white_check_mark: |
 | ts-node  |  |
 | webpack | :white_check_mark: |
-| browserify | |
+| browserify | :white_check_mark: |
 |   |   |
 | Assert  |   |
 | AVA  |   |
