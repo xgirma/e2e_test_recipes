@@ -60,7 +60,7 @@ typings/
 .next
 
 # webstorm
-./idea
+.idea/
 
 # nightwatch
 tests_output/
