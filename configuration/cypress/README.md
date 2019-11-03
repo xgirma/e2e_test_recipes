@@ -2,6 +2,8 @@
 
 [cypress:](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/cypress/cypress)
 
+[cypress: TypeScript, browserify](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/cypress/cypress-typescript-browserify)
+
 [cypress: TypeScript, webpack](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/cypress/cypress-typescript-webpack)
 
 ## Links

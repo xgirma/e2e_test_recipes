@@ -25,4 +25,4 @@
 ## To run the test
 
     npm install
-    npm run test
+    npm run run

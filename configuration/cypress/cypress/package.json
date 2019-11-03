@@ -1,5 +1,5 @@
 {
-  "name": "cypress-commonjs-es6modules",
+  "name": "cypress",
   "version": "1.0.0",
   "description": "cypress end-to-end test automation boilerplate project.",
   "scripts": {
