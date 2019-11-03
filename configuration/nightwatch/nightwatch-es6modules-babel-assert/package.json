@@ -1,0 +1,36 @@
+{
+  "name": "nightwatch-es6modules-babel-assert",
+  "version": "1.0.0",
+  "description": "nightwatch end-to-end test automation boilerplate project. Using ES6 modules, babel and assert.",
+  "scripts": {
+    "test": "npx nightwatch",
+    "lint": "npx eslint --ext .js ./ --fix"
+  },
+  "keywords": [
+    "nightwatch",
+    "es6 modules",
+    "babel",
+    "boilerplate",
+    "example"
+  ],
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "7.6.4",
+    "@babel/core": "7.6.4",
+    "@babel/plugin-transform-runtime": "7.6.2",
+    "@babel/preset-env": "7.6.3",
+    "@babel/runtime": "7.6.3",
+    "chromedriver": "78.0.1",
+    "eslint": "6.6.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-config-prettier": "6.5.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-prettier": "3.1.1",
+    "nightwatch": "1.2.4",
+    "prettier": "1.18.2"
+  },
+  "dependencies": {
+    "@babel/register": "^7.6.2"
+  }
+}

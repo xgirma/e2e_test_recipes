@@ -1,7 +1,9 @@
-# [:bird:](https://github.com/xgirma/e2e_test_recipes) Puppeteer
+# [:bird:](https://github.com/xgirma/e2e_test_recipes) nightwatch
 
 [nightwatch, commonjs, assert](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/nightwatch/nightwatch-commonjs-assert)
 
+[nightwatch, ES6 modules, babel, assert](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/nightwatch/nightwatch-es6modules-babel-assert)
+
 # Useful links
 
-[API Docs](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#browserwaitfortargetpredicate-options)
+[API Docs](https://nightwatchjs.org/api/)

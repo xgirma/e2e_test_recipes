@@ -137,9 +137,9 @@ TODO
 | webdriver-manager | :x: |
 |   |   |
 | commonjs  | :white_check_mark:  |
-| ES6 module  |   |
+| ES6 module  | :white_check_mark:  |
 | ESM  |   |
-| Babel  |   |
+| Babel  | :white_check_mark:  |
 | TypeScript  | |
 | ts-node  |  |
 |   |   |
