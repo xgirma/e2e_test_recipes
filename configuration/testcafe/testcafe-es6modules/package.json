@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-es6modules",
+  "version": "1.0.0",
+  "description": "TestCafe end-to-end test automation boilerplate project. Using commonjs",
+  "scripts": {
+    "test": "npx testcafe chrome spec/search.spec.js"
+  },
+  "keywords": [],
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
+  "devDependencies": {
+    "testcafe": "^1.6.0"
+  }
+}

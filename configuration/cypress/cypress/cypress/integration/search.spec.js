@@ -7,13 +7,13 @@ describe("google search", () => {
     cy.title().should("eq", "Google");
   });
 
-  it(`should search for Cheese!`, () => {
+  it("should search for Cheese!", () => {
     cy.fixture("data").should(d => {
       cy.get(".gLFyf.gsfi").type(`${d.searchWord}{enter}`);
     });
   });
 
-  it(`the page title should start with Cheese!`, () => {
+  it("the page title should start with Cheese!", () => {
     cy.fixture("data").should(d => {
       cy.title().should("contain", d.searchWord);
     });

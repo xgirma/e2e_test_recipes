@@ -237,7 +237,7 @@ TODO
 | Jest  |   | 
 | Mocha  |  :white_check_mark: |
      
-# Others:   
+# Others:  TODO 
 Appium
 
 WebdriverCSS
@@ -248,11 +248,13 @@ webdriver-sync
 
 mochify
 
-webdriver-sync
+CodeceptJS
 
 selenium-cucumber-js
 
 cabbie
+
+nightwatch-api
          
 ## Abandoned
 
@@ -260,3 +262,4 @@ cabbie
 
 2. [WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent)
 
+3. [PhantomJS](https://github.com/ariya/phantomjs/)
