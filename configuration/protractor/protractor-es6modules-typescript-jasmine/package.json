@@ -23,7 +23,7 @@
   "devDependencies": {
     "@types/jasmine": "3.4.6",
     "@types/jasminewd2": "2.0.8",
-    "@types/node": "12.12.6",
+    "@types/node": "12.12.7",
     "prettier": "1.19.0",
     "protractor": "5.4.2",
     "rimraf": "3.0.0",
