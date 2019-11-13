@@ -33,6 +33,6 @@
     "wdio-chromedriver-service": "5.0.2"
   },
   "dependencies": {
-    "cucumber": "6.0.4"
+    "cucumber": "6.0.5"
   }
 }
