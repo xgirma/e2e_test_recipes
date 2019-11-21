@@ -9,6 +9,6 @@
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
-    "testcafe": "1.6.1"
+    "testcafe": "1.7.0"
   }
 }
