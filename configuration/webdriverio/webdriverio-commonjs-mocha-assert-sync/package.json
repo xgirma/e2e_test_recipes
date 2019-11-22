@@ -23,7 +23,7 @@
     "@wdio/mocha-framework": "5.16.5",
     "@wdio/sync": "5.16.5",
     "chromedriver": "78.0.1",
-    "eslint": "6.6.0",
+    "eslint": "6.7.0",
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-config-prettier": "6.7.0",
     "eslint-plugin-import": "2.18.2",
