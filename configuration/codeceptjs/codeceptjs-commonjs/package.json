@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "codeceptjs": "2.3.5"
+    "codeceptjs": "2.3.6"
   }
 }
