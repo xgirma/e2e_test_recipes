@@ -19,7 +19,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/jasmine": "3.5.0",
-    "@types/node": "12.12.12",
+    "@types/node": "12.12.14",
     "@types/selenium-webdriver": "4.0.5",
     "chromedriver": "78.0.1",
     "jasmine": "3.5.0",
