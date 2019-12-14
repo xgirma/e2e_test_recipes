@@ -17,7 +17,7 @@
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
-    "@wdio/cli": "5.16.15",
+    "@wdio/cli": "5.16.16",
     "@wdio/cucumber-framework": "5.16.15",
     "@wdio/dot-reporter": "5.16.5",
     "@wdio/jasmine-framework": "5.16.15",
