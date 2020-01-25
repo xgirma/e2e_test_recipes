@@ -21,7 +21,7 @@
   "license": "MIT",
   "devDependencies": {
     "@cypress/browserify-preprocessor": "2.1.1",
-    "cypress": "3.8.2",
+    "cypress": "3.8.3",
     "prettier": "1.19.1",
     "ts-loader": "6.2.1",
     "tslint": "5.20.1",
