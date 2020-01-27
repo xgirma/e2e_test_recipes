@@ -27,6 +27,6 @@
     "esm": "3.2.25",
     "mocha": "7.0.1",
     "prettier": "1.19.1",
-    "puppeteer": "2.0.0"
+    "puppeteer": "2.1.0"
   }
 }
