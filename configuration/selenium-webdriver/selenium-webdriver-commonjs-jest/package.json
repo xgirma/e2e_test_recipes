@@ -16,7 +16,7 @@
   "license": "ISC",
   "description": "selenium-webdriver end-to-end test automation boilerplate project. Using commonjs & jest.",
   "devDependencies": {
-    "chromedriver": "79.0.0",
+    "chromedriver": "80.0.0",
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-config-prettier": "6.9.0",

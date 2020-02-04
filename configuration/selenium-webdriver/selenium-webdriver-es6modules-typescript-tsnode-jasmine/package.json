@@ -21,7 +21,7 @@
     "@types/jasmine": "3.5.1",
     "@types/node": "12.12.24",
     "@types/selenium-webdriver": "4.0.6",
-    "chromedriver": "79.0.0",
+    "chromedriver": "80.0.0",
     "jasmine": "3.5.0",
     "prettier": "1.19.1",
     "puppeteer": "2.0.0",
