@@ -28,6 +28,6 @@
     "esm": "3.2.25",
     "mocha": "7.0.1",
     "prettier": "1.19.1",
-    "selenium-webdriver": "4.0.0-alpha.5"
+    "selenium-webdriver": "4.0.0-alpha.7"
   }
 }
