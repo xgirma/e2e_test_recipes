@@ -20,7 +20,7 @@
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
-    "@types/jasmine": "3.5.1",
+    "@types/jasmine": "3.5.9",
     "@types/jasminewd2": "2.0.8",
     "@types/node": "12.12.26",
     "prettier": "1.19.1",
