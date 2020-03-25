@@ -23,7 +23,7 @@
     "@cypress/browserify-preprocessor": "2.1.1",
     "cypress": "3.8.3",
     "prettier": "2.0.2",
-    "ts-loader": "6.2.1",
+    "ts-loader": "6.2.2",
     "tslint": "6.1.0",
     "tslint-config-prettier": "1.18.0",
     "typescript": "3.7.4",
