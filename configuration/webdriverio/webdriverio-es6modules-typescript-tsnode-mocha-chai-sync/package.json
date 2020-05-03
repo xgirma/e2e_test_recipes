@@ -37,6 +37,6 @@
     "tslint": "6.1.0",
     "tslint-config-prettier": "1.18.0",
     "typescript": "3.7.4",
-    "wdio-chromedriver-service": "5.0.2"
+    "wdio-chromedriver-service": "6.0.3"
   }
 }
