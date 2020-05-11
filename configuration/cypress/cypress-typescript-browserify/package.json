@@ -20,7 +20,7 @@
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
-    "@cypress/browserify-preprocessor": "2.1.1",
+    "@cypress/browserify-preprocessor": "2.2.4",
     "cypress": "3.8.3",
     "prettier": "2.0.2",
     "ts-loader": "6.2.2",
