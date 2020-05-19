@@ -21,10 +21,10 @@
   "devDependencies": {
     "@types/jasmine": "3.5.10",
     "@types/node": "12.12.31",
-    "@types/puppeteer": "2.0.1",
+    "@types/puppeteer": "3.0.0",
     "jasmine": "3.5.0",
     "prettier": "2.0.2",
-    "puppeteer": "2.1.1",
+    "puppeteer": "3.1.0",
     "ts-node": "8.7.0",
     "tslint": "6.1.0",
     "tslint-config-prettier": "1.18.0",
