@@ -1,5 +1,7 @@
 # End to end test Recipes
 
+archiving this repo, in favour of https://github.com/e2e-boilerplate
+
 ## Configuration: Drivers
 
 ### :dog2: [selenium-webdriver](https://github.com/xgirma/e2e_test_recipes/tree/master/configuration/selenium-webdriver)
