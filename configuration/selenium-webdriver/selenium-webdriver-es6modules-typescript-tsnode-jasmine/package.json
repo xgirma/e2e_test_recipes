@@ -24,7 +24,7 @@
     "chromedriver": "79.0.0",
     "jasmine": "3.5.0",
     "prettier": "2.0.2",
-    "puppeteer": "2.1.1",
+    "puppeteer": "3.1.0",
     "selenium-webdriver": "4.0.0-alpha.5",
     "ts-node": "8.7.0",
     "tslint": "6.1.0",
