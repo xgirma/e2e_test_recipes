@@ -24,7 +24,7 @@
     "@types/jasminewd2": "2.0.8",
     "@types/node": "12.12.31",
     "prettier": "2.0.2",
-    "protractor": "5.4.3",
+    "protractor": "5.4.4",
     "rimraf": "3.0.0",
     "ts-node": "8.7.0",
     "tslint": "6.1.0",
